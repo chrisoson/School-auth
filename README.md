@@ -2,8 +2,8 @@ To start the project: Check the README for the API to see how to set up the data
 
 To start the Angular project, navigate to the project in the terminal and run:
 
-Copy code
 ng serve
+
 To start the vanilla project, simply open the index.html file in a live server.
 
 Reflection on Choosing Angular
